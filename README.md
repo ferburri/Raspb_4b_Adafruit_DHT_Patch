@@ -18,7 +18,7 @@ cd /usr/local/lib/python3.7/dist-packages/Adafruit_DHT
 Finally, you have to git the python program from this repository:
 ```bash
 sudo rm -r platform_detect.py
-sudo wget https://github.com/ferburri/Raspb_4b_Adafruit_DHT/blob/master/platform_detect.py
+sudo wget -L https://raw.githubusercontent.com/ferburri/Raspb_4b_Adafruit_DHT/master/platform_detect.py
 ```
 
 Last step, check if your python3 file is obtaining the information from the sensors
