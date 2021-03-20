@@ -22,4 +22,7 @@ sudo wget -L https://raw.githubusercontent.com/ferburri/Raspb_4b_Adafruit_DHT/ma
 ```
 
 Last step, check if your python3 file is obtaining the information from the sensors
+```bash 
+python3 "example.py"
+```
 
