@@ -6,6 +6,9 @@ Solve problem with Adafruit_DHT libray in Python 3.7 with Raspberry pi 4 model b
 To install the solution program into your Raspb Python Library, you have to install first the library for Adafruit_DHT:
 
 ```bash
+sudo apt-get update
+sudo apt-get install python3-pip
+sudo python3 -m pip install --upgrade pip setuptools wheel
 sudo pip3 install Adafruit_DHT
 ```
 Second step, go to the Python3.7 packages by using the following command: 
