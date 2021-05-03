@@ -1,5 +1,5 @@
 # Raspb_4b_Adafruit_DHT
-Solve problem with Adafruit_DHT libray in Python 3.7 with Raspberry pi 4 model b. Adafruit_DHT by default is not supporting Raspberry Pi 4 model b in his installation packages. 
+Patch with Adafruit_DHT libray in Python 3.7 with Raspberry pi 4 model b. Adafruit_DHT by default is not supporting Raspberry Pi 4 model b in his installation packages. 
 
 ## Installing
 
